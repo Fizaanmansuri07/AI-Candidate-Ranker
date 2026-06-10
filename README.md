@@ -229,4 +229,4 @@ MIT — free to use, fork, and extend.
 
 ---
 
-*NeuralRank v1.0 — Built for Hackathon Track 1 by [Your Name]*
+*NeuralRank v1.0 — Built for Hackathon Track 1 by [Fizaan Mansuri]*
